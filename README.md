@@ -1,33 +1,29 @@
-# Task 1: To perform basic mathematical operation
+## Task 1: Check if a Number is Even or Odd
 
-## Overview
-This program performs basic mathematical operations such as addition, subtraction, multiplication, and division. It takes user inputs and displays the results of the operations.
+# Overview:
+This program performs an if-else condition to check whether the number is even or odd. It takes the input from user and displays the output accordingly.
 
-## Functionality
-- Prompts the user to enter two numbers.
-- Performs the following operations:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division (with error handling for division by zero)
-- Displays the results of each operation.
+# Functionality:
+ Prompts the user to enter a number.
+ Undergoes the if condition where it checks the remainder of the number after divisible by 2. Displays the results accordingly.
+ Similarly is the if condition is not satisfied then it goes to else condition and displays the output.
 
-## Usage
+# Usage:
 1. Run the Python script.
-2. Enter two numbers when prompted.
-3. View the results of the calculations displayed on the screen.
+2. Enter the number when prompted.
+3. View the results displayed on the screen.
 
 
-# Task 2: Create a Personalized Greeting
+## Task 2: Sum of Integers from 1 to 50 Using a Loop
 
-## Overview
-This program takes inputs from user about the first name and second name. Then the result is displayed with a proper greeting to the user.
+# Overview:
+This program performs the addition of numbers from 1 to 50. Then the output is displayed.
 
-## Functionality
-- Prompts the user to enter first name and second name
-- Displays the result with a proper greeting.
+# Functionality:
+ Initializing of a variable named sum to store the total value.
+ Undergoes the for loop until it reaches the last value i.e. 50.
+ Output is displayed on the screen.
 
-## Usage
-1. Run the Python script
-2. Enter the first name and second name
-3. View the greeting results
+# Usage:
+1. Run the Python Script.
+2. View the result displayed on the screen.
