@@ -1,29 +1,32 @@
-## Task 1: Check if a Number is Even or Odd
+## Task 1: Calculate Factorial Using a Function
 
-# Overview:
-This program performs an if-else condition to check whether the number is even or odd. It takes the input from user and displays the output accordingly.
+# Overview: 
+This program performs the recursion to get the factorial of input number. It takes the input from user and displays the output accordingly.
 
 # Functionality:
- Prompts the user to enter a number.
- Undergoes the if condition where it checks the remainder of the number after divisible by 2. Displays the results accordingly.
- Similarly is the if condition is not satisfied then it goes to else condition and displays the output.
+  Prompts the user to enter a number.
+  Gets into the function defined and then check the if-else condition.
+  If condition: the number is less than 2 then it should return 1.
+  Else condition: the number is greater than 2 then i should get in a recursion.
+
+# Usage :
+1. Run the Python script.
+2. Enter the number when prompted.
+3. View the results displayed on the screen.
+
+## Task 2: Using the Math Module for Calculations
+
+# Overview:
+This program imports the math module to perform some mathematical operation on the number entered. It takes the input from user and displays the output accordingly.
+
+# Functionality : 
+  Prompts the user to enter a number.
+  Using the math functionality that is been imported the following operations are performed:
+	1. calculating square root of the entered number
+	2. calculating logarithm of the entered number
+	3. calculating sine of the entered number
 
 # Usage:
 1. Run the Python script.
 2. Enter the number when prompted.
 3. View the results displayed on the screen.
-
-
-## Task 2: Sum of Integers from 1 to 50 Using a Loop
-
-# Overview:
-This program performs the addition of numbers from 1 to 50. Then the output is displayed.
-
-# Functionality:
- Initializing of a variable named sum to store the total value.
- Undergoes the for loop until it reaches the last value i.e. 50.
- Output is displayed on the screen.
-
-# Usage:
-1. Run the Python Script.
-2. View the result displayed on the screen.
