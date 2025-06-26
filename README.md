@@ -1,31 +1,29 @@
-## Task 1: Read a File and Handle Errors 
+## Task 1: Create a Directory of Student Marks
 
 # Overview:
-This program performs read operation on a file using file handling concept.It checks whether the file is present or not. If the file is then it prints the content else gives the error.
+This program creates a dictionary of keys and values, the keys are the name of students and values are the mark. If the file is then it prints the content else gives the error.
 
 # Functionality:
 Gets into the function and checks the try part.
-In the try part it checks whether the file is present or not.
-If the file is present then it reads the contents of the given file.
-If the file is not present it gets into th exception part, and prints the FileNotFoundError.
+In the try part it creates a dictionary and reads the value of the dictionary.
+Then we take a students name from user end.
+Then is the nam eexist then shows the values.
+If the name doesn't exceed then it shares the custom error.
 
 # Usage:
 1. Run the Python script.
 2. View the result displayed on screen.
 
-## Task 2: Write and Append Data to a File
+## Task 2: Demonstrate List Slicing 
 
 # Overview:
-This program performs the file handling operation where in this we are performing write and append operation on a file. It takes input from the user and writes as well appends it into the file and prints the output at last.
+This program performs the list slicing. It takes just the range of numbers and then prints the first 5 numbers from the list and post to that this sliced list needs to be reversed.
 
 # Functionality:
-Gets into the functions and checks the try part.
-Takes in the input from user and writes to the file.
-Then again takes input from the user and appends the file.
-At the end reads the file and displays whats written in the file.
-If the file doesn't exist then it throws an exception.
+We have created a list then its displayed as it is.
+Then the list is sliced in a manner where the first five elements are present and are consistant.
+After slicing then the sliced list is reversed and print again.
 
 # Usage:
 1. Run the python script.
-2. Enter the text when prompted.
-3. View the result displayed on screen.
+2. View the result displayed on screen.
